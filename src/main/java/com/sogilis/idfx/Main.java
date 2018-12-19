@@ -11,7 +11,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 
 public class Main extends Application {
-    private static Locale locale = Locale.ENGLISH;
+    public static Locale locale = Locale.ENGLISH;
 
     public static Stage primaryStage;
     public static Scene loginScene;
