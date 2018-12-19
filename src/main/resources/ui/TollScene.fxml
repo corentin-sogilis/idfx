@@ -18,10 +18,10 @@
     <top>
         <HBox alignment="BASELINE_RIGHT" >
             <ImageView onMouseClicked="#setFrench">
-                <Image url="/flag/fr.png"/>
+                <Image url="/img/fr.png"/>
             </ImageView>
             <ImageView onMouseClicked="#setEnglish">
-                <Image url="/flag/en.png"/>
+                <Image url="/img/en.png"/>
             </ImageView>
         </HBox>
     </top>
